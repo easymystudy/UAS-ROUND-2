@@ -31,7 +31,7 @@ svn = {"red": "Critical", "yellow": "Moderate", "white": "Safe"}             # s
 spd = [20.0, 15.0, 10.0]
 
 #setting the pixel to which it will see we can adjust it, if i want the route in less time we will go with large value and most accurate with 1
-bs = 4      # box size
+bs = 1      # box size
 
 
 # STEP 1 : finding the different colours

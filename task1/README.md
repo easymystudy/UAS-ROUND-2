@@ -197,9 +197,6 @@ Total number of casualties = 9
 7. **`MORPH_CLOSE` was eating a bit of the thin black wall.** So after doing the closing I
    remove the black and water pixels one more time.
 
-8. **`box_size = 4` is a compromise.** With 1 the path is a little shorter but it takes a
-   very long time to run, with 8 it is fast but the path was cutting the corners too close
-   to the obstacles.
 
 ## 5. What can be improved
  Still Thinking!!
