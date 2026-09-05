@@ -1,0 +1,20 @@
+[Running] python -u "c:\Users\Arif Rizwan\Desktop\UAS-R2\task2\task2.py"
+c:\Users\Arif Rizwan\Desktop\UAS-R2\task2\task2.py:377: SyntaxWarning: invalid escape sequence '\i'
+  input_image = "task2\images\maze1.jpg"
+c:\Users\Arif Rizwan\Desktop\UAS-R2\task2\task2.py:378: SyntaxWarning: invalid escape sequence '\o'
+  output_folder = "task2\outputs"
+==================================================
+IMAGE : maze1  size = 1280 x 720
+Receptive field size = 320 x 360
+White circle (start) = (153, 629)
+Black circle (target)= (1184, 149)
+my radius = 38
+--- from here I can only see my receptive field ---
+REACHED the black circle in 118 steps
+total steps walked = 115
+snapshots saved in task2\outputs/maze1_steps
+video saved in task2\outputs/maze1_video.mp4
+final path image saved
+
+[Done] exited with code=0 in 15.524 seconds
+

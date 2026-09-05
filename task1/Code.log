@@ -1,0 +1,213 @@
+[Running] python -u "c:\Users\Arif Rizwan\Desktop\UAS-R2\task1.py"
+
+==================================================================
+IMAGE : IMG-20260831-WA0025   size = 1280 x 720
+==================================================================
+number of green shades found = 4
+Start (orange triangle)      = (648, 260)
+Destination (purple triangle)= (116, 574)
+
+2. CASUALTY INFORMATION
+Total number of casualties = 3
+Casualty coordinates = [(981, 627), (714, 67), (1207, 133)]
+   Casualty 1 : (981, 627)  shape = star  age group = Adults  severity = Critical  priority = 3  elevation level = 0
+   Casualty 2 : (714, 67)  shape = square  age group = Senior Citizens  severity = Moderate  priority = 4  elevation level = 0
+   Casualty 3 : (1207, 133)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
+
+3. ROVER PATH
+Number of points in the path = 2047
+First 10 points = [(648, 260), (648, 259), (648, 258), (648, 257), (648, 256), (648, 255), (648, 254), (648, 253), (648, 252), (648, 251)] ....
+Last 5 points   = [(120, 573), (119, 574), (118, 574), (117, 574), (116, 574)]
+(full path saved in IMG-20260831-WA0025_path.txt )
+
+4. PATH SCORE
+   1) (714, 67) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 203.97 px | travelled = 220.34 px | score = 3.703
+   2) (1207, 133) | age = Children | severity = Safe | priority = 3 | displacement = 573.25 px | travelled = 740.68 px | score = 2.322
+   3) (981, 627) | age = Adults | severity = Critical | priority = 3 | displacement = 495.56 px | travelled = 1328.87 px | score = 1.119
+   Casualty Scores = [3.703, 2.322, 1.119]
+   TOTAL PATH SCORE = 7.144
+
+6. TIME
+   Total distance travelled = 2361.63 px
+   TOTAL TIME = 136.8 seconds
+
+==================================================================
+IMAGE : IMG-20260831-WA0026   size = 1280 x 720
+==================================================================
+number of green shades found = 3
+Start (orange triangle)      = (316, 83)
+Destination (purple triangle)= (696, 109)
+
+2. CASUALTY INFORMATION
+Total number of casualties = 6
+Casualty coordinates = [(880, 647), (104, 276), (685, 535), (1147, 469), (104, 586), (1058, 81)]
+   Casualty 1 : (880, 647)  shape = square  age group = Senior Citizens  severity = Critical  priority = 6  elevation level = 0
+   Casualty 2 : (104, 276)  shape = star  age group = Adults  severity = Critical  priority = 3  elevation level = 0
+   Casualty 3 : (685, 535)  shape = star  age group = Adults  severity = Moderate  priority = 2  elevation level = 0
+   Casualty 4 : (1147, 469)  shape = square  age group = Senior Citizens  severity = Moderate  priority = 4  elevation level = 2
+   Casualty 5 : (104, 586)  shape = star  age group = Adults  severity = Safe  priority = 1  elevation level = 0
+   Casualty 6 : (1058, 81)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
+
+3. ROVER PATH
+Number of points in the path = 3701
+First 10 points = [(316, 83), (317, 84), (318, 85), (319, 86), (320, 87), (321, 88), (322, 89), (323, 90), (324, 91), (325, 92)] ....
+Last 5 points   = [(692, 113), (693, 112), (694, 111), (695, 110), (696, 109)]
+(full path saved in IMG-20260831-WA0026_path.txt )
+
+4. PATH SCORE
+   1) (880, 647) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 797.62 px | travelled = 869.08 px | score = 5.507
+   2) (1147, 469) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 916.27 px | travelled = 1358.26 px | score = 2.698
+   3) (1058, 81) | age = Children | severity = Safe | priority = 3 | displacement = 742.0 px | travelled = 1783.12 px | score = 1.248
+   4) (685, 535) | age = Adults | severity = Moderate | priority = 2 | displacement = 583.49 px | travelled = 2391.62 px | score = 0.488
+   5) (104, 276) | age = Adults | severity = Critical | priority = 3 | displacement = 286.69 px | travelled = 3079.9 px | score = 0.279
+   6) (104, 586) | age = Adults | severity = Safe | priority = 1 | displacement = 545.85 px | travelled = 3623.98 px | score = 0.151
+   Casualty Scores = [5.507, 2.698, 1.248, 0.488, 0.279, 0.151]
+   TOTAL PATH SCORE = 10.371
+
+6. TIME
+   Total distance travelled = 4500.26 px
+   TOTAL TIME = 253.66 seconds
+
+==================================================================
+IMAGE : IMG-20260831-WA0027   size = 1280 x 720
+==================================================================
+number of green shades found = 4
+Start (orange triangle)      = (380, 644)
+Destination (purple triangle)= (573, 78)
+
+2. CASUALTY INFORMATION
+Total number of casualties = 9
+Casualty coordinates = [(133, 619), (858, 491), (966, 129), (50, 39), (573, 461), (674, 166), (234, 483), (966, 359), (1216, 157)]
+   Casualty 1 : (133, 619)  shape = star  age group = Adults  severity = Critical  priority = 3  elevation level = 0
+   Casualty 2 : (858, 491)  shape = star  age group = Adults  severity = Critical  priority = 3  elevation level = 0
+   Casualty 3 : (966, 129)  shape = square  age group = Senior Citizens  severity = Critical  priority = 6  elevation level = 2
+   Casualty 4 : (50, 39)  shape = square  age group = Senior Citizens  severity = Critical  priority = 6  elevation level = 0
+   Casualty 5 : (573, 461)  shape = star  age group = Adults  severity = Moderate  priority = 2  elevation level = 0
+   Casualty 6 : (674, 166)  shape = circle  age group = Children  severity = Moderate  priority = 6  elevation level = 0
+   Casualty 7 : (234, 483)  shape = square  age group = Senior Citizens  severity = Safe  priority = 2  elevation level = 0
+   Casualty 8 : (966, 359)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
+   Casualty 9 : (1216, 157)  shape = star  age group = Adults  severity = Safe  priority = 1  elevation level = 1
+
+3. ROVER PATH
+Number of points in the path = 5520
+First 10 points = [(380, 644), (381, 643), (382, 642), (383, 641), (384, 640), (385, 639), (386, 638), (387, 637), (388, 636), (389, 635)] ....
+Last 5 points   = [(570, 82), (571, 81), (572, 80), (572, 79), (573, 78)]
+(full path saved in IMG-20260831-WA0027_path.txt )
+
+4. PATH SCORE
+   1) (966, 129) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 780.14 px | travelled = 799.32 px | score = 5.856
+   2) (674, 166) | age = Children | severity = Moderate | priority = 6 | displacement = 561.18 px | travelled = 1312.6 px | score = 2.565
+   3) (50, 39) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 689.15 px | travelled = 1989.21 px | score = 2.079
+   4) (966, 359) | age = Children | severity = Safe | priority = 3 | displacement = 651.63 px | travelled = 3037.75 px | score = 0.644
+   5) (858, 491) | age = Adults | severity = Critical | priority = 3 | displacement = 501.89 px | travelled = 3214.49 px | score = 0.468
+   6) (1216, 157) | age = Adults | severity = Safe | priority = 1 | displacement = 967.5 px | travelled = 3710.84 px | score = 0.261
+   7) (133, 619) | age = Adults | severity = Critical | priority = 3 | displacement = 248.26 px | travelled = 4985.2 px | score = 0.149
+   8) (573, 461) | age = Adults | severity = Moderate | priority = 2 | displacement = 265.97 px | travelled = 5490.65 px | score = 0.097
+   9) (234, 483) | age = Senior Citizens | severity = Safe | priority = 2 | displacement = 217.34 px | travelled = 5838.76 px | score = 0.074
+   Casualty Scores = [5.856, 2.565, 2.079, 0.644, 0.468, 0.261, 0.149, 0.097, 0.074]
+   TOTAL PATH SCORE = 12.193
+
+6. TIME
+   Total distance travelled = 6518.91 px
+   TOTAL TIME = 375.66 seconds
+
+==================================================================
+IMAGE : IMG-20260831-WA0028   size = 1280 x 720
+==================================================================
+number of green shades found = 4
+Start (orange triangle)      = (1191, 178)
+Destination (purple triangle)= (130, 651)
+
+2. CASUALTY INFORMATION
+Total number of casualties = 7
+Casualty coordinates = [(880, 598), (455, 278), (738, 93), (412, 603), (738, 462), (195, 357), (1058, 81)]
+   Casualty 1 : (880, 598)  shape = square  age group = Senior Citizens  severity = Critical  priority = 6  elevation level = 0
+   Casualty 2 : (455, 278)  shape = circle  age group = Children  severity = Critical  priority = 9  elevation level = 0
+   Casualty 3 : (738, 93)  shape = star  age group = Adults  severity = Critical  priority = 3  elevation level = 0
+   Casualty 4 : (412, 603)  shape = square  age group = Senior Citizens  severity = Moderate  priority = 4  elevation level = 2
+   Casualty 5 : (738, 462)  shape = star  age group = Adults  severity = Moderate  priority = 2  elevation level = 0
+   Casualty 6 : (195, 357)  shape = star  age group = Adults  severity = Safe  priority = 1  elevation level = 0
+   Casualty 7 : (1058, 81)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
+
+3. ROVER PATH
+Number of points in the path = 5369
+First 10 points = [(1191, 178), (1190, 179), (1189, 180), (1188, 181), (1187, 182), (1186, 183), (1185, 184), (1184, 185), (1183, 186), (1182, 187)] ....
+Last 5 points   = [(134, 647), (133, 648), (132, 649), (131, 650), (130, 651)]
+(full path saved in IMG-20260831-WA0028_path.txt )
+
+4. PATH SCORE
+   1) (455, 278) | age = Children | severity = Critical | priority = 9 | displacement = 742.76 px | travelled = 901.44 px | score = 7.416
+   2) (412, 603) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 887.39 px | travelled = 1244.25 px | score = 2.853
+   3) (880, 598) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 522.61 px | travelled = 1906.36 px | score = 1.645
+   4) (738, 93) | age = Adults | severity = Critical | priority = 3 | displacement = 460.91 px | travelled = 2488.41 px | score = 0.556
+   5) (738, 462) | age = Adults | severity = Moderate | priority = 2 | displacement = 534.66 px | travelled = 2901.31 px | score = 0.369
+   6) (195, 357) | age = Adults | severity = Safe | priority = 1 | displacement = 1011.96 px | travelled = 3487.81 px | score = 0.29
+   7) (1058, 81) | age = Children | severity = Safe | priority = 3 | displacement = 164.61 px | travelled = 4658.43 px | score = 0.106
+   Casualty Scores = [7.416, 2.853, 1.645, 0.556, 0.369, 0.29, 0.106]
+   TOTAL PATH SCORE = 13.234
+
+6. TIME
+   Total distance travelled = 5981.86 px
+   TOTAL TIME = 324.67 seconds
+
+==================================================================
+IMAGE : IMG-20260831-WA0029   size = 1280 x 720
+==================================================================
+number of green shades found = 3
+Start (orange triangle)      = (91, 632)
+Destination (purple triangle)= (1183, 632)
+
+2. CASUALTY INFORMATION
+Total number of casualties = 9
+Casualty coordinates = [(926, 651), (487, 439), (654, 121), (146, 325), (693, 297), (1207, 103), (757, 519), (1073, 337), (99, 99)]
+   Casualty 1 : (926, 651)  shape = star  age group = Adults  severity = Critical  priority = 3  elevation level = 0
+   Casualty 2 : (487, 439)  shape = circle  age group = Children  severity = Critical  priority = 9  elevation level = 0
+   Casualty 3 : (654, 121)  shape = square  age group = Senior Citizens  severity = Critical  priority = 6  elevation level = 2
+   Casualty 4 : (146, 325)  shape = star  age group = Adults  severity = Moderate  priority = 2  elevation level = 0
+   Casualty 5 : (693, 297)  shape = square  age group = Senior Citizens  severity = Moderate  priority = 4  elevation level = 0
+   Casualty 6 : (1207, 103)  shape = circle  age group = Children  severity = Moderate  priority = 6  elevation level = 0
+   Casualty 7 : (757, 519)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
+   Casualty 8 : (1073, 337)  shape = star  age group = Adults  severity = Safe  priority = 1  elevation level = 2
+   Casualty 9 : (99, 99)  shape = square  age group = Senior Citizens  severity = Safe  priority = 2  elevation level = 0
+
+3. ROVER PATH
+Number of points in the path = 4922
+First 10 points = [(91, 632), (92, 631), (93, 630), (94, 629), (95, 628), (96, 627), (97, 626), (98, 625), (99, 624), (100, 623)] ....
+Last 5 points   = [(1179, 631), (1180, 632), (1181, 632), (1182, 632), (1183, 632)]
+(full path saved in IMG-20260831-WA0029_path.txt )
+
+4. PATH SCORE
+   1) (487, 439) | age = Children | severity = Critical | priority = 9 | displacement = 440.53 px | travelled = 475.94 px | score = 8.33
+   2) (1207, 103) | age = Children | severity = Moderate | priority = 6 | displacement = 1235.03 px | travelled = 1335.12 px | score = 5.55
+   3) (654, 121) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 760.32 px | travelled = 1968.48 px | score = 2.317
+   4) (693, 297) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 688.93 px | travelled = 2160.63 px | score = 1.275
+   5) (926, 651) | age = Adults | severity = Critical | priority = 3 | displacement = 835.22 px | travelled = 2611.14 px | score = 0.96
+   6) (757, 519) | age = Children | severity = Safe | priority = 3 | displacement = 675.52 px | travelled = 2834.82 px | score = 0.715
+   7) (1073, 337) | age = Adults | severity = Safe | priority = 1 | displacement = 1025.35 px | travelled = 3226.21 px | score = 0.318
+   8) (99, 99) | age = Senior Citizens | severity = Safe | priority = 2 | displacement = 533.06 px | travelled = 4298.79 px | score = 0.248
+   9) (146, 325) | age = Adults | severity = Moderate | priority = 2 | displacement = 311.89 px | travelled = 4575.74 px | score = 0.136
+   Casualty Scores = [8.33, 5.55, 2.317, 1.275, 0.96, 0.715, 0.318, 0.248, 0.136]
+   TOTAL PATH SCORE = 19.85
+
+6. TIME
+   Total distance travelled = 5739.9 px
+   TOTAL TIME = 300.65 seconds
+
+==================================================================
+7. GLOBAL RANKING
+==================================================================
+Path Score Ranking (highest first) = ['IMG-20260831-WA0029', 'IMG-20260831-WA0028', 'IMG-20260831-WA0027', 'IMG-20260831-WA0026', 'IMG-20260831-WA0025']
+    IMG-20260831-WA0029  score = 19.85
+    IMG-20260831-WA0028  score = 13.234
+    IMG-20260831-WA0027  score = 12.193
+    IMG-20260831-WA0026  score = 10.371
+    IMG-20260831-WA0025  score = 7.144
+Time Ranking (fastest first) = ['IMG-20260831-WA0025', 'IMG-20260831-WA0026', 'IMG-20260831-WA0029', 'IMG-20260831-WA0028', 'IMG-20260831-WA0027']
+    IMG-20260831-WA0025  time = 136.8 s
+    IMG-20260831-WA0026  time = 253.66 s
+    IMG-20260831-WA0029  time = 300.65 s
+    IMG-20260831-WA0028  time = 324.67 s
+    IMG-20260831-WA0027  time = 375.66 s
+
+[Done] exited with code=0 in 364.368 seconds
+
