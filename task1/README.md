@@ -202,8 +202,4 @@ Total number of casualties = 9
    to the obstacles.
 
 ## 5. What can be improved
-* Instead of the greedy order, use 2-opt or full brute force when the number of casualties
-  is small, to get a slightly better total score.
-* Make the path smooth (join the points which can see each other) so it does not look like
-  a staircase.
-* Make the obstacles a little fatter so the rover does not touch the walls.
+ Still Thinking!!
