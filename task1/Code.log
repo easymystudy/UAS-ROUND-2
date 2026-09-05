@@ -1,4 +1,4 @@
-[Running] python -u "c:\Users\Arif Rizwan\Desktop\UAS-R2\task1.py"
+[Running] python -u "c:\Users\Arif Rizwan\Desktop\UAS-R2\task1\task2.py"
 
 ==================================================================
 IMAGE : IMG-20260831-WA0025   size = 1280 x 720
@@ -15,21 +15,21 @@ Casualty coordinates = [(981, 627), (714, 67), (1207, 133)]
    Casualty 3 : (1207, 133)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
 
 3. ROVER PATH
-Number of points in the path = 2047
-First 10 points = [(648, 260), (648, 259), (648, 258), (648, 257), (648, 256), (648, 255), (648, 254), (648, 253), (648, 252), (648, 251)] ....
-Last 5 points   = [(120, 573), (119, 574), (118, 574), (117, 574), (116, 574)]
+Number of points in the path = 514
+First 10 points = [(648, 260), (648, 256), (648, 252), (648, 248), (648, 244), (648, 240), (648, 236), (648, 232), (648, 228), (648, 224)] ....
+Last 5 points   = [(132, 572), (128, 572), (124, 572), (120, 572), (116, 572)]
 (full path saved in IMG-20260831-WA0025_path.txt )
 
 4. PATH SCORE
-   1) (714, 67) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 203.97 px | travelled = 220.34 px | score = 3.703
-   2) (1207, 133) | age = Children | severity = Safe | priority = 3 | displacement = 573.25 px | travelled = 740.68 px | score = 2.322
-   3) (981, 627) | age = Adults | severity = Critical | priority = 3 | displacement = 495.56 px | travelled = 1328.87 px | score = 1.119
-   Casualty Scores = [3.703, 2.322, 1.119]
-   TOTAL PATH SCORE = 7.144
+   1) (714, 67) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 203.97 px | travelled = 222.51 px | score = 3.667
+   2) (1207, 133) | age = Children | severity = Safe | priority = 3 | displacement = 573.25 px | travelled = 742.68 px | score = 2.316
+   3) (981, 627) | age = Adults | severity = Critical | priority = 3 | displacement = 495.56 px | travelled = 1332.15 px | score = 1.116
+   Casualty Scores = [3.667, 2.316, 1.116]
+   TOTAL PATH SCORE = 7.098
 
 6. TIME
-   Total distance travelled = 2361.63 px
-   TOTAL TIME = 136.8 seconds
+   Total distance travelled = 2363.49 px
+   TOTAL TIME = 122.36 seconds
 
 ==================================================================
 IMAGE : IMG-20260831-WA0026   size = 1280 x 720
@@ -49,24 +49,24 @@ Casualty coordinates = [(880, 647), (104, 276), (685, 535), (1147, 469), (104, 5
    Casualty 6 : (1058, 81)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
 
 3. ROVER PATH
-Number of points in the path = 3701
-First 10 points = [(316, 83), (317, 84), (318, 85), (319, 86), (320, 87), (321, 88), (322, 89), (323, 90), (324, 91), (325, 92)] ....
-Last 5 points   = [(692, 113), (693, 112), (694, 111), (695, 110), (696, 109)]
+Number of points in the path = 925
+First 10 points = [(316, 80), (320, 84), (324, 88), (328, 92), (332, 96), (336, 100), (340, 104), (344, 108), (348, 112), (352, 116)] ....
+Last 5 points   = [(684, 124), (688, 120), (692, 116), (692, 112), (696, 108)]
 (full path saved in IMG-20260831-WA0026_path.txt )
 
 4. PATH SCORE
-   1) (880, 647) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 797.62 px | travelled = 869.08 px | score = 5.507
-   2) (1147, 469) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 916.27 px | travelled = 1358.26 px | score = 2.698
-   3) (1058, 81) | age = Children | severity = Safe | priority = 3 | displacement = 742.0 px | travelled = 1783.12 px | score = 1.248
-   4) (685, 535) | age = Adults | severity = Moderate | priority = 2 | displacement = 583.49 px | travelled = 2391.62 px | score = 0.488
-   5) (104, 276) | age = Adults | severity = Critical | priority = 3 | displacement = 286.69 px | travelled = 3079.9 px | score = 0.279
-   6) (104, 586) | age = Adults | severity = Safe | priority = 1 | displacement = 545.85 px | travelled = 3623.98 px | score = 0.151
-   Casualty Scores = [5.507, 2.698, 1.248, 0.488, 0.279, 0.151]
-   TOTAL PATH SCORE = 10.371
+   1) (880, 647) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 797.62 px | travelled = 870.25 px | score = 5.499
+   2) (1147, 469) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 916.27 px | travelled = 1355.84 px | score = 2.703
+   3) (1058, 81) | age = Children | severity = Safe | priority = 3 | displacement = 742.0 px | travelled = 1780.29 px | score = 1.25
+   4) (685, 535) | age = Adults | severity = Moderate | priority = 2 | displacement = 583.49 px | travelled = 2386.38 px | score = 0.489
+   5) (104, 276) | age = Adults | severity = Critical | priority = 3 | displacement = 286.69 px | travelled = 3072.42 px | score = 0.28
+   6) (104, 586) | age = Adults | severity = Safe | priority = 1 | displacement = 545.85 px | travelled = 3618.74 px | score = 0.151
+   Casualty Scores = [5.499, 2.703, 1.25, 0.489, 0.28, 0.151]
+   TOTAL PATH SCORE = 10.373
 
 6. TIME
-   Total distance travelled = 4500.26 px
-   TOTAL TIME = 253.66 seconds
+   Total distance travelled = 4494.6 px
+   TOTAL TIME = 243.09 seconds
 
 ==================================================================
 IMAGE : IMG-20260831-WA0027   size = 1280 x 720
@@ -89,27 +89,27 @@ Casualty coordinates = [(133, 619), (858, 491), (966, 129), (50, 39), (573, 461)
    Casualty 9 : (1216, 157)  shape = star  age group = Adults  severity = Safe  priority = 1  elevation level = 1
 
 3. ROVER PATH
-Number of points in the path = 5520
-First 10 points = [(380, 644), (381, 643), (382, 642), (383, 641), (384, 640), (385, 639), (386, 638), (387, 637), (388, 636), (389, 635)] ....
-Last 5 points   = [(570, 82), (571, 81), (572, 80), (572, 79), (573, 78)]
+Number of points in the path = 1385
+First 10 points = [(380, 644), (384, 640), (388, 636), (392, 632), (396, 628), (400, 624), (404, 620), (408, 616), (412, 612), (416, 608)] ....
+Last 5 points   = [(568, 92), (568, 88), (568, 84), (568, 80), (572, 76)]
 (full path saved in IMG-20260831-WA0027_path.txt )
 
 4. PATH SCORE
-   1) (966, 129) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 780.14 px | travelled = 799.32 px | score = 5.856
-   2) (674, 166) | age = Children | severity = Moderate | priority = 6 | displacement = 561.18 px | travelled = 1312.6 px | score = 2.565
-   3) (50, 39) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 689.15 px | travelled = 1989.21 px | score = 2.079
-   4) (966, 359) | age = Children | severity = Safe | priority = 3 | displacement = 651.63 px | travelled = 3037.75 px | score = 0.644
-   5) (858, 491) | age = Adults | severity = Critical | priority = 3 | displacement = 501.89 px | travelled = 3214.49 px | score = 0.468
-   6) (1216, 157) | age = Adults | severity = Safe | priority = 1 | displacement = 967.5 px | travelled = 3710.84 px | score = 0.261
-   7) (133, 619) | age = Adults | severity = Critical | priority = 3 | displacement = 248.26 px | travelled = 4985.2 px | score = 0.149
-   8) (573, 461) | age = Adults | severity = Moderate | priority = 2 | displacement = 265.97 px | travelled = 5490.65 px | score = 0.097
-   9) (234, 483) | age = Senior Citizens | severity = Safe | priority = 2 | displacement = 217.34 px | travelled = 5838.76 px | score = 0.074
-   Casualty Scores = [5.856, 2.565, 2.079, 0.644, 0.468, 0.261, 0.149, 0.097, 0.074]
-   TOTAL PATH SCORE = 12.193
+   1) (966, 129) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 780.14 px | travelled = 800.08 px | score = 5.85
+   2) (674, 166) | age = Children | severity = Moderate | priority = 6 | displacement = 561.18 px | travelled = 1319.77 px | score = 2.551
+   3) (50, 39) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 689.15 px | travelled = 1996.79 px | score = 2.071
+   4) (966, 359) | age = Children | severity = Safe | priority = 3 | displacement = 651.63 px | travelled = 3045.34 px | score = 0.642
+   5) (858, 491) | age = Adults | severity = Critical | priority = 3 | displacement = 501.89 px | travelled = 3222.08 px | score = 0.467
+   6) (1216, 157) | age = Adults | severity = Safe | priority = 1 | displacement = 967.5 px | travelled = 3719.59 px | score = 0.26
+   7) (133, 619) | age = Adults | severity = Critical | priority = 3 | displacement = 248.26 px | travelled = 4994.13 px | score = 0.149
+   8) (573, 461) | age = Adults | severity = Moderate | priority = 2 | displacement = 265.97 px | travelled = 5498.75 px | score = 0.097
+   9) (234, 483) | age = Senior Citizens | severity = Safe | priority = 2 | displacement = 217.34 px | travelled = 5847.03 px | score = 0.074
+   Casualty Scores = [5.85, 2.551, 2.071, 0.642, 0.467, 0.26, 0.149, 0.097, 0.074]
+   TOTAL PATH SCORE = 12.162
 
 6. TIME
-   Total distance travelled = 6518.91 px
-   TOTAL TIME = 375.66 seconds
+   Total distance travelled = 6530.11 px
+   TOTAL TIME = 373.12 seconds
 
 ==================================================================
 IMAGE : IMG-20260831-WA0028   size = 1280 x 720
@@ -130,25 +130,25 @@ Casualty coordinates = [(880, 598), (455, 278), (738, 93), (412, 603), (738, 462
    Casualty 7 : (1058, 81)  shape = circle  age group = Children  severity = Safe  priority = 3  elevation level = 0
 
 3. ROVER PATH
-Number of points in the path = 5369
-First 10 points = [(1191, 178), (1190, 179), (1189, 180), (1188, 181), (1187, 182), (1186, 183), (1185, 184), (1184, 185), (1183, 186), (1182, 187)] ....
-Last 5 points   = [(134, 647), (133, 648), (132, 649), (131, 650), (130, 651)]
+Number of points in the path = 1346
+First 10 points = [(1188, 176), (1184, 180), (1180, 184), (1176, 188), (1172, 192), (1168, 196), (1164, 200), (1160, 204), (1156, 208), (1152, 212)] ....
+Last 5 points   = [(144, 636), (140, 640), (136, 644), (132, 644), (128, 648)]
 (full path saved in IMG-20260831-WA0028_path.txt )
 
 4. PATH SCORE
-   1) (455, 278) | age = Children | severity = Critical | priority = 9 | displacement = 742.76 px | travelled = 901.44 px | score = 7.416
-   2) (412, 603) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 887.39 px | travelled = 1244.25 px | score = 2.853
-   3) (880, 598) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 522.61 px | travelled = 1906.36 px | score = 1.645
-   4) (738, 93) | age = Adults | severity = Critical | priority = 3 | displacement = 460.91 px | travelled = 2488.41 px | score = 0.556
-   5) (738, 462) | age = Adults | severity = Moderate | priority = 2 | displacement = 534.66 px | travelled = 2901.31 px | score = 0.369
-   6) (195, 357) | age = Adults | severity = Safe | priority = 1 | displacement = 1011.96 px | travelled = 3487.81 px | score = 0.29
-   7) (1058, 81) | age = Children | severity = Safe | priority = 3 | displacement = 164.61 px | travelled = 4658.43 px | score = 0.106
-   Casualty Scores = [7.416, 2.853, 1.645, 0.556, 0.369, 0.29, 0.106]
-   TOTAL PATH SCORE = 13.234
+   1) (455, 278) | age = Children | severity = Critical | priority = 9 | displacement = 742.76 px | travelled = 908.26 px | score = 7.36
+   2) (412, 603) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 887.39 px | travelled = 1248.83 px | score = 2.842
+   3) (880, 598) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 522.61 px | travelled = 1909.95 px | score = 1.642
+   4) (738, 93) | age = Adults | severity = Critical | priority = 3 | displacement = 460.91 px | travelled = 2493.48 px | score = 0.555
+   5) (738, 462) | age = Adults | severity = Moderate | priority = 2 | displacement = 534.66 px | travelled = 2904.56 px | score = 0.368
+   6) (195, 357) | age = Adults | severity = Safe | priority = 1 | displacement = 1011.96 px | travelled = 3491.63 px | score = 0.29
+   7) (1058, 81) | age = Children | severity = Safe | priority = 3 | displacement = 164.61 px | travelled = 4668.09 px | score = 0.106
+   Casualty Scores = [7.36, 2.842, 1.642, 0.555, 0.368, 0.29, 0.106]
+   TOTAL PATH SCORE = 13.162
 
 6. TIME
-   Total distance travelled = 5981.86 px
-   TOTAL TIME = 324.67 seconds
+   Total distance travelled = 5996.35 px
+   TOTAL TIME = 317.86 seconds
 
 ==================================================================
 IMAGE : IMG-20260831-WA0029   size = 1280 x 720
@@ -171,43 +171,43 @@ Casualty coordinates = [(926, 651), (487, 439), (654, 121), (146, 325), (693, 29
    Casualty 9 : (99, 99)  shape = square  age group = Senior Citizens  severity = Safe  priority = 2  elevation level = 0
 
 3. ROVER PATH
-Number of points in the path = 4922
-First 10 points = [(91, 632), (92, 631), (93, 630), (94, 629), (95, 628), (96, 627), (97, 626), (98, 625), (99, 624), (100, 623)] ....
-Last 5 points   = [(1179, 631), (1180, 632), (1181, 632), (1182, 632), (1183, 632)]
+Number of points in the path = 1231
+First 10 points = [(88, 632), (92, 628), (96, 628), (100, 624), (104, 620), (108, 620), (112, 620), (116, 620), (120, 620), (124, 620)] ....
+Last 5 points   = [(1164, 632), (1168, 632), (1172, 632), (1176, 632), (1180, 632)]
 (full path saved in IMG-20260831-WA0029_path.txt )
 
 4. PATH SCORE
-   1) (487, 439) | age = Children | severity = Critical | priority = 9 | displacement = 440.53 px | travelled = 475.94 px | score = 8.33
-   2) (1207, 103) | age = Children | severity = Moderate | priority = 6 | displacement = 1235.03 px | travelled = 1335.12 px | score = 5.55
-   3) (654, 121) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 760.32 px | travelled = 1968.48 px | score = 2.317
-   4) (693, 297) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 688.93 px | travelled = 2160.63 px | score = 1.275
-   5) (926, 651) | age = Adults | severity = Critical | priority = 3 | displacement = 835.22 px | travelled = 2611.14 px | score = 0.96
-   6) (757, 519) | age = Children | severity = Safe | priority = 3 | displacement = 675.52 px | travelled = 2834.82 px | score = 0.715
-   7) (1073, 337) | age = Adults | severity = Safe | priority = 1 | displacement = 1025.35 px | travelled = 3226.21 px | score = 0.318
-   8) (99, 99) | age = Senior Citizens | severity = Safe | priority = 2 | displacement = 533.06 px | travelled = 4298.79 px | score = 0.248
-   9) (146, 325) | age = Adults | severity = Moderate | priority = 2 | displacement = 311.89 px | travelled = 4575.74 px | score = 0.136
-   Casualty Scores = [8.33, 5.55, 2.317, 1.275, 0.96, 0.715, 0.318, 0.248, 0.136]
-   TOTAL PATH SCORE = 19.85
+   1) (487, 439) | age = Children | severity = Critical | priority = 9 | displacement = 440.53 px | travelled = 477.19 px | score = 8.309
+   2) (1207, 103) | age = Children | severity = Moderate | priority = 6 | displacement = 1235.03 px | travelled = 1336.36 px | score = 5.545
+   3) (654, 121) | age = Senior Citizens | severity = Critical | priority = 6 | displacement = 760.32 px | travelled = 1972.86 px | score = 2.312
+   4) (693, 297) | age = Senior Citizens | severity = Moderate | priority = 4 | displacement = 688.93 px | travelled = 2165.43 px | score = 1.273
+   5) (926, 651) | age = Adults | severity = Critical | priority = 3 | displacement = 835.22 px | travelled = 2613.53 px | score = 0.959
+   6) (757, 519) | age = Children | severity = Safe | priority = 3 | displacement = 675.52 px | travelled = 2836.2 px | score = 0.715
+   7) (1073, 337) | age = Adults | severity = Safe | priority = 1 | displacement = 1025.35 px | travelled = 3226.76 px | score = 0.318
+   8) (99, 99) | age = Senior Citizens | severity = Safe | priority = 2 | displacement = 533.06 px | travelled = 4302.17 px | score = 0.248
+   9) (146, 325) | age = Adults | severity = Moderate | priority = 2 | displacement = 311.89 px | travelled = 4583.19 px | score = 0.136
+   Casualty Scores = [8.309, 5.545, 2.312, 1.273, 0.959, 0.715, 0.318, 0.248, 0.136]
+   TOTAL PATH SCORE = 19.814
 
 6. TIME
-   Total distance travelled = 5739.9 px
-   TOTAL TIME = 300.65 seconds
+   Total distance travelled = 5746.77 px
+   TOTAL TIME = 300.94 seconds
 
 ==================================================================
 7. GLOBAL RANKING
 ==================================================================
 Path Score Ranking (highest first) = ['IMG-20260831-WA0029', 'IMG-20260831-WA0028', 'IMG-20260831-WA0027', 'IMG-20260831-WA0026', 'IMG-20260831-WA0025']
-    IMG-20260831-WA0029  score = 19.85
-    IMG-20260831-WA0028  score = 13.234
-    IMG-20260831-WA0027  score = 12.193
-    IMG-20260831-WA0026  score = 10.371
-    IMG-20260831-WA0025  score = 7.144
+    IMG-20260831-WA0029  score = 19.814
+    IMG-20260831-WA0028  score = 13.162
+    IMG-20260831-WA0027  score = 12.162
+    IMG-20260831-WA0026  score = 10.373
+    IMG-20260831-WA0025  score = 7.098
 Time Ranking (fastest first) = ['IMG-20260831-WA0025', 'IMG-20260831-WA0026', 'IMG-20260831-WA0029', 'IMG-20260831-WA0028', 'IMG-20260831-WA0027']
-    IMG-20260831-WA0025  time = 136.8 s
-    IMG-20260831-WA0026  time = 253.66 s
-    IMG-20260831-WA0029  time = 300.65 s
-    IMG-20260831-WA0028  time = 324.67 s
-    IMG-20260831-WA0027  time = 375.66 s
+    IMG-20260831-WA0025  time = 122.36 s
+    IMG-20260831-WA0026  time = 243.09 s
+    IMG-20260831-WA0029  time = 300.94 s
+    IMG-20260831-WA0028  time = 317.86 s
+    IMG-20260831-WA0027  time = 373.12 s
 
-[Done] exited with code=0 in 364.368 seconds
+[Done] exited with code=0 in 30.263 seconds
 
